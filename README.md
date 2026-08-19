@@ -39,8 +39,11 @@
 ### Решение 1
 
 ![изображение](https://github.com/sGolubn/8-03-hw/blob/main/1.jpg)`
+
 ![изображение](https://github.com/sGolubn/8-03-hw/blob/main/2.jpg)`
+
 ![изображение](https://github.com/sGolubn/8-03-hw/blob/main/3.jpg)`
+
 ![изображение](https://github.com/sGolubn/8-03-hw/blob/main/4.jpg)`
 
 ---
@@ -79,6 +82,7 @@
 ### Решение 2,3
 
 ![изображение](https://github.com/sGolubn/8-03-hw/blob/main/2-3.jpg)`
+
 ![изображение](https://github.com/sGolubn/8-03-hw/blob/main/2-3-1.jpg)`
 
 ### Задание 4
